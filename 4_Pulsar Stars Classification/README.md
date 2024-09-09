@@ -1,8 +1,8 @@
-**Project:**
+## Project:
 
-Pulsar Stars Classification.
+# Pulsar Stars Classification.
 
-**Task:**
+## Task:
 
 Development of a machine learning model for the classification of pulsar stars, highly magnetized rotating neutron stars that emit beams of electromagnetic radiation. The goal of the model is to distinguish pulsars from other types of astronomical objects, aiding in their discovery and study.
 
