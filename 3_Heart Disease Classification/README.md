@@ -1,8 +1,8 @@
-**Project:**
+## Project:
 
-Heart Disease Classification.
+# Heart Disease Classification.
 
-**Task:**
+## Task:
 
 Building a machine learning model for heart disease classification to predict the likelihood of its occurrence.
 
