@@ -1,12 +1,12 @@
-**Project:**
+## Project:
 
-Avocado price prediction.
+# Avocado price prediction.
 
-**Task:**
+## Task:
 
 To create a model for predicting avocado prices based on historical data.
 
-**Regression models used:**
+## Regression models used:
 
 - Linear Regression
 - Decision Tree Regressor
@@ -15,7 +15,7 @@ To create a model for predicting avocado prices based on historical data.
 - K-Neighbors Regressor
 - Support Vector Regressor (SVR)
 
-**Result:**
+## Result:
 
 RandomForestRegressor shows the lowest error values (MAE = 9.05% and MSE = 1.72%) and the highest coefficient of determination (R² = 89.14%).
 
