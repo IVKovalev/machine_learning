@@ -28,7 +28,7 @@ Binary classification of radio signals from the HTRU2 survey (17,898 candidates,
 - Сравнение 6 классификаторов: Decision Tree, Random Forest, SVM (линейное и полиномиальное ядро), KNN, логистическая регрессия; оценка по accuracy и матрицам ошибок.
 - Для сравнения построена многослойная нейросеть на Keras.
 
-**Результат:** лучшая модель — Random Forest, **98,3%** accuracy на тестовой выборке. Нейросеть показала около 97%.
+**Результат:** лучшая модель - Random Forest, **98,3%** accuracy на тестовой выборке. Нейросеть показала около 97%.
 
 **Стек:** Python, pandas, NumPy, scikit-learn, Keras, seaborn, matplotlib, pandas-profiling.
 
